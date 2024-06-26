@@ -3,23 +3,23 @@
 Licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
 
 ## Logos with the icon and text
-**Adaptable:**
+#### Adaptable
 ![](logos/Zenith-text-dynamic.svg)
-**Light background:**
+#### Light background
 ![](logos/Zenith-text.svg)
-**Dark background:**
+#### Dark background
 ![](logos/Zenith-text-white.svg)
 
 ### Editable versions
-**Adaptable:**
+#### Adaptable
 ![](logos/Zenith-text-edit-dynamic.svg)
-**Light background:**
+#### Light background
 ![](logos/Zenith-text-edit.svg)
-**Dark background:**
+#### Dark background
 ![](logos/Zenith-text-white-edit.svg)
 
 ## Logos with the icon only
-**In the traditional color:**
+#### In the traditional color
 ![](logos/Zenith.svg)
-**In white color:**
+#### In white color
 ![](logos/Zenith-white.svg)
